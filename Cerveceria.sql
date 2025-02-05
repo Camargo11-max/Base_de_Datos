@@ -6,6 +6,8 @@ CREATE TABLE materia_prima (
     nombre_mp varchar(40) NOT NULL,
     color_mp  varchar(20),
     sabor_mp varchar(30),
+    textura_mp varchar(40),
+    aroma_mp varchar(30)
 );
 
 CREATE TABLE cerveza_matprima (
@@ -13,7 +15,7 @@ CREATE TABLE cerveza_matprima (
     cantidad INT NOT NULL,
     unidad INT NOT NULL,
     id_materiap INT NOT NULL,
-    id_cerveza INT NOT NULL
+    id_cerveza INT NOT NULL,
     FOREING KEY (id_materiap) REFERENCES materia_prima (id_materiap), 
     FOREING KEY (id_cerveza) REFERENCES materia_prima (id_cerveza)
 );
@@ -23,8 +25,8 @@ CREATE TABLE cerveza (
     nombre_cer varchar(40) NOT NULL,
     color_cer  varchar(20),
     sabor_cer varchar(30),
-    textura varchar(40),
-    aroma varchar(30),
+    textura_cer varchar(40),
+    aroma_cer varchar(30),
     id_categoria INT NOT NULL,
     FOREING KEY (id_categoria) REFERENCES categoria (id_categoria)
 );
@@ -32,7 +34,7 @@ CREATE TABLE cerveza (
 CREATE TABLE categoria (
     id_categoria INT AUTO_INCREMENT PRIMARY KEY,
     nombre_cat varchar (30) NOT NULL ,
-    detalle varchar (40) NOT NULL,
+    detalle varchar (40) NOT NULL
 );
 
 CREATE TABLE tipo_categoria (
