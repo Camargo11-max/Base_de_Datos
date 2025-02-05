@@ -15,7 +15,7 @@ CREATE TABLE cerveza_matprima (
     cantidad INT NOT NULL,
     unidad INT NOT NULL,
     id_materiap INT NOT NULL,
-    id_cerveza INT NOT NULL
+    id_cerveza INT NOT NULL,
     FOREING KEY (id_materiap) REFERENCES materia_prima (id_materiap), 
     FOREING KEY (id_cerveza) REFERENCES materia_prima (id_cerveza)
 );
