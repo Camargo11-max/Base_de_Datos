@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "67b7cc256dcc6e7c51f3635c"
+  },
+  "nombre": "agua",
+  "cantidad": "27000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7cc256dcc6e7c51f3635d"
+  },
+  "nombre": "malta pale",
+  "cantidad": "6000 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc256dcc6e7c51f3635e"
+  },
+  "nombre": "lupulo citra",
+  "cantidad": "88 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc256dcc6e7c51f3635f"
+  },
+  "nombre": "lupulo simcoe",
+  "cantidad": "59 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc256dcc6e7c51f36360"
+  },
+  "nombre": "Levadura ",
+  "cantidad": "15 gramos"
+}]

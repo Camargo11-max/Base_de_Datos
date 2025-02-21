@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f36378"
+  },
+  "nombre": "agua",
+  "cantidad": "13000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f36379"
+  },
+  "nombre": "malta pale",
+  "cantidad": "5000 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f3637a"
+  },
+  "nombre": "malta melanoidina",
+  "cantidad": "250 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f3637b"
+  },
+  "nombre": "malta chocolate",
+  "cantidad": "100 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f3637c"
+  },
+  "nombre": "malta carafa special",
+  "cantidad": "150 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f3637d"
+  },
+  "nombre": "lupulo centinnial",
+  "cantidad": "32 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f3637e"
+  },
+  "nombre": "lupulo hallertau hersbrucker",
+  "cantidad": "100 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc896dcc6e7c51f3637f"
+  },
+  "nombre": "Levadura",
+  "cantidad": "12 gramos"
+}]

@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36362"
+  },
+  "nombre": "agua",
+  "cantidad": "20000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36363"
+  },
+  "noombre": "malta pilsen",
+  "cantidad": "5600 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36364"
+  },
+  "noombre": "malta carapils",
+  "cantidad": "450 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36365"
+  },
+  "noombre": "malta aromatica",
+  "cantidad": "300 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36366"
+  },
+  "noombre": "lupulo saaz",
+  "cantidad": "47 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36367"
+  },
+  "noombre": "lupulo tettnang",
+  "cantidad": "58 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36368"
+  },
+  "noombre": "levadura",
+  "cantidad": "12 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc4d6dcc6e7c51f36369"
+  },
+  "noombre": "cristales de azucares cande claro",
+  "cantidad": "750 gramos"
+}]

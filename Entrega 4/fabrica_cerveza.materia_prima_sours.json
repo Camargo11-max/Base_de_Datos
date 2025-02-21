@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "67b7ccfb6dcc6e7c51f36392"
+  },
+  "nombre": "agua",
+  "cantidad": "8000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7ccfb6dcc6e7c51f36393"
+  },
+  "noombre": "malta 2 row",
+  "cantidad": "1630000 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccfb6dcc6e7c51f36394"
+  },
+  "noombre": "malta maris otter",
+  "cantidad": "230 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccfb6dcc6e7c51f36395"
+  },
+  "noombre": "malta acida",
+  "cantidad": "90 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccfb6dcc6e7c51f36396"
+  },
+  "noombre": "malta trigo rojo",
+  "cantidad": "80 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccfb6dcc6e7c51f36397"
+  },
+  "noombre": "lupulo zythos",
+  "cantidad": "6 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccfb6dcc6e7c51f36398"
+  },
+  "noombre": "levadura deshidratada",
+  "cantidad": "5 gramos"
+}]

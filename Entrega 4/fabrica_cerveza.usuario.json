@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "67b7cbf56dcc6e7c51f36354"
+  },
+  "nombre": "lagers dark",
+  "cantidad estanteria": "20",
+  "precio unidad": "13.4 euros",
+  "precio caja x 6": "80.4 euros",
+  "descripcion": "cervez-alemana"
+},
+{
+  "_id": {
+    "$oid": "67b7cbf56dcc6e7c51f36355"
+  },
+  "nombre": "lagers bocks",
+  "cantidad estanteria": "30",
+  "precio unidad": "13.4 euros",
+  "precio caja x 6": "80.4 euros",
+  "descripcion": "cervez-irlandesa"
+},
+{
+  "_id": {
+    "$oid": "67b7cbf56dcc6e7c51f36356"
+  },
+  "nombre": "lagers pale",
+  "cantidad estanteria": "10",
+  "precio unidad": "13.4 euros",
+  "precio caja x 6": "80.4 euros",
+  "descripcion": "cervez-inglesa"
+},
+{
+  "_id": {
+    "$oid": "67b7cbf56dcc6e7c51f36357"
+  },
+  "nombre": "ales stouts",
+  "cantidad estanteria": "24",
+  "precio unidad": "12.5 euros",
+  "precio caja x 6": "75 euros",
+  "descripcion": ""
+},
+{
+  "_id": {
+    "$oid": "67b7cbf56dcc6e7c51f36358"
+  },
+  "nombre": "ales porters",
+  "cantidad estanteria": "38",
+  "precio unidad": "12.5 euros",
+  "precio caja x 6": "75 euros",
+  "descripcion": ""
+},
+{
+  "_id": {
+    "$oid": "67b7cbf56dcc6e7c51f36359"
+  },
+  "nombre": "ales belgians",
+  "cantidad estanteria": "20",
+  "precio unidad": "12.5 euros",
+  "precio caja x 6": "75 euros",
+  "descripcion": ""
+},
+{
+  "_id": {
+    "$oid": "67b7cbf56dcc6e7c51f3635a"
+  },
+  "nombre": "ales pale",
+  "cantidad estanteria": "41",
+  "precio unidad": "12.5 euros",
+  "precio caja x 6": "75 euros",
+  "descripcion": ""
+}]

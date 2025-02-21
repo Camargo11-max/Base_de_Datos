@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "67b7cd146dcc6e7c51f3639a"
+  },
+  "nombre": "agua",
+  "cantidad": "12000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7cd146dcc6e7c51f3639b"
+  },
+  "noombre": "malta pale",
+  "cantidad": "3800 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cd146dcc6e7c51f3639c"
+  },
+  "noombre": "malta chocolate",
+  "cantidad": "100 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cd146dcc6e7c51f3639d"
+  },
+  "noombre": "cebolla en copos",
+  "cantidad": "500 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cd146dcc6e7c51f3639e"
+  },
+  "noombre": "cebolla tostada",
+  "cantidad": "450 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cd146dcc6e7c51f3639f"
+  },
+  "noombre": "east kent golding",
+  "cantidad": "61 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cd146dcc6e7c51f363a0"
+  },
+  "noombre": "levadura ales fuerte",
+  "cantidad": "12 gramos"
+}]

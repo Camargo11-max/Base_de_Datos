@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "67b7ccd76dcc6e7c51f3638a"
+  },
+  "nombre": "agua",
+  "cantidad": "19200 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7ccd76dcc6e7c51f3638b"
+  },
+  "noombre": "malta munich",
+  "cantidad": "7000 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccd76dcc6e7c51f3638c"
+  },
+  "noombre": "malta amber",
+  "cantidad": "300 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccd76dcc6e7c51f3638d"
+  },
+  "noombre": "malta carafa special",
+  "cantidad": "286 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccd76dcc6e7c51f3638e"
+  },
+  "noombre": "malta chocolate",
+  "cantidad": "300 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccd76dcc6e7c51f3638f"
+  },
+  "noombre": "lupulo",
+  "cantidad": "89 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccd76dcc6e7c51f36390"
+  },
+  "noombre": "levadura ales fuerte",
+  "cantidad": "12 gramos"
+}]

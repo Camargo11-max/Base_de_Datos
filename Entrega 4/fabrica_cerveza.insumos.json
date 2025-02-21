@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f3633f"
+  },
+  "nombre": "agua",
+  "cantidad": "122000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36340"
+  },
+  "noombre": "malta ",
+  "cantidad": "1670000 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36341"
+  },
+  "noombre": "lupulo",
+  "cantidad": "826 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36342"
+  },
+  "noombre": "levadura",
+  "cantidad": "98 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36343"
+  },
+  "noombre": "cristales de azucares cande claro",
+  "cantidad": "750 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36344"
+  },
+  "noombre": "clarificante carragenina",
+  "cantidad": "17 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36345"
+  },
+  "noombre": "detroxa",
+  "cantidad": "20 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36346"
+  },
+  "noombre": "arroz",
+  "cantidad": "30 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36347"
+  },
+  "noombre": "maiz",
+  "cantidad": "20 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36348"
+  },
+  "noombre": "azucar",
+  "cantidad": "15 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cbc06dcc6e7c51f36349"
+  },
+  "noombre": "east kent golding",
+  "cantidad": "61 gramos"
+}]

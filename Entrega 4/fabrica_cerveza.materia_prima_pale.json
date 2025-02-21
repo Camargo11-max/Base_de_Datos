@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36381"
+  },
+  "nombre": "agua",
+  "cantidad": "13000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36382"
+  },
+  "nombre": "malta pilsen",
+  "cantidad": "5000 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36383"
+  },
+  "nombre": "malta tradicional",
+  "cantidad": "250 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36384"
+  },
+  "nombre": "lupulo tradicional",
+  "cantidad": "100 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36385"
+  },
+  "nombre": "Levadura ",
+  "cantidad": "15 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36386"
+  },
+  "nombre": "arroz",
+  "cantidad": "30 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36387"
+  },
+  "nombre": "maiz",
+  "cantidad": "20 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7ccb26dcc6e7c51f36388"
+  },
+  "nombre": "azucar",
+  "cantidad": "15 gramos"
+}]

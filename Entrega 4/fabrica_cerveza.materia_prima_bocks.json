@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f3636b"
+  },
+  "nombre": "agua",
+  "cantidad": "13000 mililitros"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f3636c"
+  },
+  "nombre": "malta pilsen",
+  "cantidad": "5000 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f3636d"
+  },
+  "nombre": "malta caramelo",
+  "cantidad": "250 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f3636e"
+  },
+  "nombre": "malta chocolate",
+  "cantidad": "900 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f3636f"
+  },
+  "nombre": "malta vienna",
+  "cantidad": "150 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f36370"
+  },
+  "nombre": "malta munich",
+  "cantidad": "150 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f36371"
+  },
+  "nombre": "lupulo heller",
+  "cantidad": "32 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f36372"
+  },
+  "nombre": "lupulo tradicional",
+  "cantidad": "100 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f36373"
+  },
+  "nombre": "lupulo saaz",
+  "cantidad": "100 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f36374"
+  },
+  "nombre": "Levadura diamond o saflager",
+  "cantidad": "12 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f36375"
+  },
+  "nombre": "clarificante carragenina",
+  "cantidad": "17 gramos"
+},
+{
+  "_id": {
+    "$oid": "67b7cc6b6dcc6e7c51f36376"
+  },
+  "nombre": "detroxa",
+  "cantidad": "20 gramos"
+}]

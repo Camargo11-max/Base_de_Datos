@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f3634b"
+  },
+  "nombre": "lagers dark",
+  "cantidad fabricadas": "70",
+  "cantidad vendida": "50",
+  "caja": "670 euros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f3634c"
+  },
+  "nombre": "lagers bocks",
+  "cantidad fabricadas": "70",
+  "cantidad vendida": "40",
+  "caja": "536 euros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f3634d"
+  },
+  "nombre": "lagers pale",
+  "cantidad fabricada": "70",
+  "cantidad vendida": "60",
+  "caja": "804 euros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f3634e"
+  },
+  "nombre": "ales stouts",
+  "cantidad fabricada": "36",
+  "cantidad vendida": "12",
+  "caja": "150 euros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f3634f"
+  },
+  "nombre": "ales porters",
+  "cantidad fabricada": "58",
+  "cantidad vendida": "22",
+  "caja": "275 euros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f36350"
+  },
+  "nombre": "ales belgians",
+  "cantidad fabricada": "60",
+  "cantidad vendida": "40",
+  "caja": "250 euros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f36351"
+  },
+  "nombre": "lagers pale",
+  "cantidad fabricada": "81",
+  "cantidad vendida": "40",
+  "caja": "500 euros"
+},
+{
+  "_id": {
+    "$oid": "67b7cbda6dcc6e7c51f36352"
+  },
+  "caja principal": "3185 euros"
+}]
